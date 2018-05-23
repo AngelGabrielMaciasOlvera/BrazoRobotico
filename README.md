@@ -35,10 +35,12 @@ siguiente:
 * 1 Resistencia de 220 Ohms
 * 1 Pulsador
 * Conectores rápidos MM (20 Apróximadamente)
+* 4 Conectores rápidos HM
 * Pantalla LCD de 16x2
 * Driver i2c
 * Contar con JDK y/o JVM en la computadora en la cual se ejecutará la aplicación Java 
 * IDE de desarrollo Java (NetBeans, Eclipse, etc)
+* Kit de armado para brazo robótico de 4 grados de libertad (material de plastico, cartón, etc)
 * Libreria para emisión de voz FreeTTS (libre y disponible en https://sourceforge.net/projects/freetts/files/)
 * Librería y archivos para comunicación vía puerto serial Panamahitek(libre y disponible en https://sourceforge.net/projects/arduinoyjava/files/v2.7.0/)
 
@@ -46,7 +48,7 @@ siguiente:
 ## =============Información de Contacto=============
 Elaborado por: Nancy Lizette Castañeda Morales y Angel Gabriel Macias Olvera
 correos electronicos de contacto: nancycast96@gmail.com y angelmacias@live.com
-Correo institucional de contacto: 142406@itleon.edu.mx y 14240623@itleon.edu.mx
+Correo institucional de contacto: 14241097@itleon.edu.mx y 14240623@itleon.edu.mx
 
 ## Derechos de Autor 
 El material mostrado para la elaboración del circuito digital 
